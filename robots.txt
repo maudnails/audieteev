@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeuyechox.pollyportal.com/sitemap.xml
